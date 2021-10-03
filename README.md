@@ -1,8 +1,9 @@
 A web application that displays live cryptocurrency prices and news.
+
 Homescreen displays top 10 cryptocurrencies and news.
 
-The Cryptocurrencies secition displays top 50 cryptocurrencies prices along with their market cap and daily change of their rate.
-These prices are live prices fetched from the cryptocurrencies API served bty RapidAPI
+The Cryptocurrencies secition displays top 50 cryptocurrencies prices along with their market cap and daily change of their rate.\
+These prices are live prices fetched from the cryptocurrencies API served by RapidAPI.
 
 The News section displays top news about cryptocurrencies using the Bing Search API sourced from RapidAPI.
 
